@@ -18,8 +18,7 @@ Pegar os dados com python-flask e salve esses dados em alguma base de dados que 
 <p align="center"><img src="Fotos/Capturar3.JPG"></p>
 
 
-<b><p align="justify">As datas que estão no gráfico (primeiro dia de cada mês), faz referência da somatória do próprio mês. Por exemplo: a soma dos casos de COVID-19 do mês de Março, estão na linha do dia 1º de de Março.
-
+<b><p align="justify">As datas que estão no gráfico (primeiro dia de cada mês), faz referência da somatória do próprio mês. Por exemplo: a soma dos casos de COVID-19 do mês de Março, estão na linha do dia 1º de de Março.</br>
 Ao comparar os 3 gráficos, podemos observar que de durante o mês de abril,teve uma alta na quantidade de acesso tanto na Netflix quanto no Youtube (quando começou a quarentena em alguns países). Mesmo as pessoas do mundo inteiro acessando mais as plataformas digitais e estando de quarentena, os casos de COVID-19 aumentaram de forma exponencial.</p></b>
 <p align="center"><img src="Fotos/Capturar5.JPG"></p>
 
