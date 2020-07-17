@@ -24,9 +24,8 @@ Ao comparar os 3 gráficos, podemos observar que de durante o mês de abril,teve
 <p align="center"><img src="Fotos/Capturar5.JPG"></p>
 
 
-<b><p align="justify">Para fazer uma comparação melhorentre Netflix e Youtube, foi feito o gráfico abaixo no <a href="https://public.tableau.com/profile/yukari.guenka.yshida#!/vizhome/Campus_Inc_Case/Comparao?publish=yes">Tableau Public</a>.</br>
+<b><p align="justify">Para fazer uma comparação melhorentre Netflix e Youtube, foi feito o gráfico abaixo no <a href="https://public.tableau.com/profile/yukari.guenka.yshida#!/vizhome/Campus_Inc_Case/Comparao">Tableau Public</a>.</br>
 Neste gráfico, foi possível observar com mais clareza que no mês de maio, a quantidade de acessos da Netflix teve uma queda em relação ao mês anterior, enquanto o no Youtube, a quantidade de acessos aumentou. Podemos suspeitar que o aumento de acessos no Youtube durante o mês de maio foi devido as lives realizadas pelos artistas, além dos cursos gratuitos que estão sendo oferecidos pelos profissionais que estão de quarentena.</p></b>
-
 
 <p align="center"><img src="Fotos/Capturar6.JPG"></p>
 <p align="justify">Dados: Países que acessam mais a Netflix no mês de junho</p>
@@ -35,4 +34,9 @@ Neste gráfico, foi possível observar com mais clareza que no mês de maio, a q
 <p align="justify">Dados: Países que mais acessam o Youtube no mês de junho</p>
 <p align="center"><img src="Fotos/Capturar4.JPG"></p>
 
-<b><p align="justify">Os dados acima, mostram a porcentagem de acessos por país nas duas plataformas.Em ambas as plataformas, podemos observar que mais de 20% dos acessos são dos EUA. A parte curiosa é que mesmo sendo uma plataforma paga, o Brasil é o segundo país que mais acessa a plataforma da Netflix.</p></b>
+<b><p align="justify">A partir dos dados obtidos pelo API, mostra a porcentagem de acessos por país nas duas plataformas.Em ambas as plataformas, podemos observar que mais de 20% dos acessos são dos EUA. A parte curiosa é que mesmo sendo uma plataforma paga, o Brasil é o segundo país que mais acessa a plataforma da Netflix.</p></b>
+
+
+<b><p align="justify">Para fazer uma comparação melhorentre Netflix e Youtube, foi feito dois mapas no Tableau Public<a href="https://public.tableau.com/profile/yukari.guenka.yshida#!/vizhome/Campus_Inc_Youtube/Youtube-Pases">Youtube</a> e <a href="https://public.tableau.com/profile/yukari.guenka.yshida#!/vizhome/Campus_Inc_Case_Netflix/Netflix-Paises">Netflix</a>.</p></b>
+<p align="center"><img src="Fotos/Capturar7.JPG"></p>
+<p align="center"><img src="Fotos/Capturar8.JPG"></p>
