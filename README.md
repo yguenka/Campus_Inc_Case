@@ -35,4 +35,4 @@ Neste gráfico, foi possível observar com mais clareza que no mês de maio, a q
 <p align="justify">Dados: Países que mais acessam o Youtube no mês de junho</p>
 <p align="center"><img src="Fotos/Capturar4.JPG"></p>
 
-<b><p align="justify">Em ambas as plataformas, podemos observar que mais de 20% dos acessos são dos EUA.</p></b>
+<b><p align="justify">Os dados acima, mostram a porcentagem de acessos por país nas duas plataformas.Em ambas as plataformas, podemos observar que mais de 20% dos acessos são dos EUA. A parte curiosa é que mesmo sendo uma plataforma paga, o Brasil é o segundo país que mais acessa a plataforma da Netflix.</p></b>
