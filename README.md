@@ -4,7 +4,7 @@
 <p align="justify">Selecione 2 APIs, 1 de coronavírus e outra livre que você quera usar do <a href="https://coronavirus-map.p.rapidapi.com/v1/spots/summary">RapidAPI</a>.</br>
 Pegar os dados com python-flask e salve esses dados em alguma base de dados que preferir para depois nos mostrar um relatório com gráficos da comparação de dados.</p>
 
-<b><p align="justify">Código disponível em: <a href="https://github.com/yguenka/Campus_Inc_Case/blob/master/Campus%20Inc.ipynb">Campus_Inc_Case.ipynb</a></p></b>
+<b><p align="justify">Códigos disponível em: <a href="https://github.com/yguenka/Campus_Inc_Case/blob/master/Campus%20Inc.ipynb">Campus_Inc_Case.ipynb</a></p></b>
 
 
 
@@ -24,7 +24,7 @@ Ao comparar os 3 gráficos, podemos observar que de durante o mês de abril,teve
 <p align="center"><img src="Fotos/Capturar5.JPG"></p>
 
 
-<b><p align="justify">Para fazer uma comparação melhorentre Netflix e Youtube, foi feito o gráfico abaixo no <a href="https://public.tableau.com/profile/yukari.guenka.yshida#!/vizhome/Campus_Inc_Case/Painel1?publish=yes">Tableau Public</a>.</br>
+<b><p align="justify">Para fazer uma comparação melhorentre Netflix e Youtube, foi feito o gráfico abaixo no <a href="https://public.tableau.com/profile/yukari.guenka.yshida#!/vizhome/Campus_Inc_Case/Comparao?publish=yes">Tableau Public</a>.</br>
 Neste gráfico, foi possível observar com mais clareza que no mês de maio, a quantidade de acessos da Netflix teve uma queda em relação ao mês anterior, enquanto o no Youtube, a quantidade de acessos aumentou. Podemos suspeitar que o aumento de acessos no Youtube durante o mês de maio foi devido as lives realizadas pelos artistas, além dos cursos gratuitos que estão sendo oferecidos pelos profissionais que estão de quarentena.</p></b>
 
 
