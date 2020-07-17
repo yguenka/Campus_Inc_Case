@@ -11,11 +11,11 @@ Pegar os dados com python-flask e salve esses dados em alguma base de dados que 
 <b><p align="justify">Dados: Quantidades de acessos na Netflix</p></b>
 <p align="center"><img src="Fotos/Capturar1.JPG"></p>
 
-<b><p align="justify">Dados: Países que acessam mais a Netflix</p></b>
-<p align="center"><img src="Fotos/Capturar2.JPG"></p>
-
 <b><p align="justify">Dados: Quantidades de acessos no Youtube</p></b>
 <p align="center"><img src="Fotos/Capturar3.JPG"></p>
+
+<b><p align="justify">Dados: Países que acessam mais a Netflix</p></b>
+<p align="center"><img src="Fotos/Capturar2.JPG"></p>
 
 <b><p align="justify">Dados: Países que mais acessam o Youtube</p></b>
 <p align="center"><img src="Fotos/Capturar4.JPG"></p>
@@ -24,3 +24,8 @@ Pegar os dados com python-flask e salve esses dados em alguma base de dados que 
 
 Ao comparar os 3 gráficos, podemos observar que de durante o mês de março (simbolizado pelo dia 1º de Abril),teve uma alta na quantidade de acesso tanto na Netflix quanto no Youtube (quando começou a quarentena). Mesmo as pessoas do mundo inteiro acessando mais as plataformas digitais, os casos de COVID-19 aumentaram de forma exponencial.</p></b>
 <p align="center"><img src="Fotos/Capturar5.JPG"></p>
+
+
+<b><p align="justify">Para fazer uma comparação melhorentre Netflix e Youtube, montei o gráfico abaixo no <a href="https://public.tableau.com/profile/yukari.guenka.yshida#!/vizhome/Campus_Inc_Case/Painel1?publish=yes">Tableau Public</a>.</br>
+Neste gráfico, foi possível observar com mais clareza que no mês de abril (datada no dia 1º de maio), a quantidade de acessos da Netflix teve uma queda em relação ao mês anterior, enquanto o no Youtube, a quantidade de acessos aumentou .  </p></b>
+<p align="center"><img src="Fotos/Capturar6.JPG"></p>
