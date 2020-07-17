@@ -5,5 +5,11 @@
 Pegar os dados com python-flask e salve esses dados em alguma base de dados que preferir para depois nos mostrar um relatório com gráficos da comparação de dados.</p>
 
 
-<b><p align="justify">Dados do COVID-19</p></b>
+<b><p align="justify">Dados: COVID-19</p></b>
 <p align="center"><img src="Fotos/Capturar.JPG"></p>
+
+<b><p align="justify">Dados: Quantidades de acessos na Netflix</p></b>
+<p align="center"><img src="Fotos/Capturar1.JPG"></p>
+
+<b><p align="justify">Dados: Quantidades de acessos no Youtube</p></b>
+<p align="center"><img src="Fotos/Capturar2.JPG"></p>
