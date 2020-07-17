@@ -37,6 +37,6 @@ Neste gráfico, foi possível observar com mais clareza que no mês de maio, a q
 <b><p align="justify">A partir dos dados obtidos pelo API, mostra a porcentagem de acessos por país nas duas plataformas.Em ambas as plataformas, podemos observar que mais de 20% dos acessos são dos EUA. A parte curiosa é que mesmo sendo uma plataforma paga, o Brasil é o segundo país que mais acessa a plataforma da Netflix.</p></b>
 
 
-<b><p align="justify">Abaixo, foi feito dois mapas no Tableau Public sobre os países que mais acessam o <a href="https://public.tableau.com/profile/yukari.guenka.yshida#!/vizhome/Campus_Inc_Youtube/Youtube-Pases">Youtube</a> e a<a href="https://public.tableau.com/profile/yukari.guenka.yshida#!/vizhome/Campus_Inc_Case_Netflix/Netflix-Paises">Netflix</a>. Nele, fica mais claro obervar que os EUA, Brasil e Reino Unido estão entre os países que mais acessam as duas plataformas.</p></b>
+<b><p align="justify">Abaixo, há dois mapas feitos no Tableau Public utilizando os dados retirados com a API sobre os países que mais acessam o <a href="https://public.tableau.com/profile/yukari.guenka.yshida#!/vizhome/Campus_Inc_Youtube/Youtube-Pases">Youtube</a> e a<a href="https://public.tableau.com/profile/yukari.guenka.yshida#!/vizhome/Campus_Inc_Case_Netflix/Netflix-Paises">Netflix</a>. Nele, fica mais claro obervar que os EUA, Brasil e Reino Unido estão entre os países que mais acessam as duas plataformas.</p></b>
 <p align="center"><img src="Fotos/Capturar7.JPG"></p>
 <p align="center"><img src="Fotos/Capturar8.JPG"></p>
