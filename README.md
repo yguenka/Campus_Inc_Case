@@ -8,8 +8,17 @@ Pegar os dados com python-flask e salve esses dados em alguma base de dados que 
 <b><p align="justify">Dados: COVID-19</p></b>
 <p align="center"><img src="Fotos/Capturar.JPG"></p>
 
-<b><p align="justify">Dados: Quantidades de acessos na Netflix</p></b>
+<b><p align="justify">Dados: Quantidades de acessos na <u>Netflix</u></p></b>
 <p align="center"><img src="Fotos/Capturar1.JPG"></p>
 
-<b><p align="justify">Dados: Quantidades de acessos no Youtube</p></b>
+<b><p align="justify">Dados: Países que acessam mais a <u>Netflix</u></p></b>
 <p align="center"><img src="Fotos/Capturar2.JPG"></p>
+
+<b><p align="justify">Dados: Quantidades de acessos no <u>Youtube</u></p></b>
+<p align="center"><img src="Fotos/Capturar3.JPG"></p>
+
+<b><p align="justify">Dados: Países que mais acessam o <u>Youtube</u></p></b>
+<p align="center"><img src="Fotos/Capturar4.JPG"></p>
+
+<b><p align="justify">Ao colocar os 3 gráficos </p></b>
+<p align="center"><img src="Fotos/Capturar5.JPG"></p>
